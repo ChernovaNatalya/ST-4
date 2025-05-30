@@ -1,5 +1,5 @@
 # ST-4 Модульное тестирование в .NET Core с использованием MSTest (C#) и библиотеки Stateless
-
+ 
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/UNN-CS/ST-4)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/UNN-CS/ST-4)
